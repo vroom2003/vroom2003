@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tadiwanashe Vurumu
 
-**Data Scientist | Full Stack Developer | Healthcare Technology Specialist**
+**Data Scientist | Full Stack Developer | Healthcare & Environmental AI Specialist**
 
 [![Email](https://img.shields.io/badge/Email-vurumutadiwanashe@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vurumutadiwanashe@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-0786292150-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+263786292150)
@@ -12,12 +12,12 @@
 
 ## 🚀 About Me
 
-Versatile technology professional with expertise in **software development**, **data science**, and **IT support**. Experienced in building healthcare technology solutions, predictive models, and full-stack applications. Passionate about creating data-driven solutions that make a real impact.
+Versatile technology professional with expertise in **software development**, **data science**, and **AI solutions** for healthcare and environmental protection. Experienced in building predictive healthcare systems and satellite-based monitoring solutions. Passionate about creating data-driven solutions that make real societal impact.
 
 - 🔭 **Currently:** Software Engineering Intern at Ministry Of Health And Child Care
-- 🌱 **Learning:** Advanced ML techniques and cloud architecture
-- 💼 **Seeking:** Software Developer, Data Scientist, or Data Analyst roles
-- ⚡ **Fun Fact:** Built an STI prediction system with 87% accuracy for outbreak forecasting
+- 🌱 **Learning:** Advanced Computer Vision and Geospatial AI
+- 💼 **Seeking:** Software Developer, Data Scientist, or AI Engineer roles
+- ⚡ **Fun Fact:** Built environmental monitoring system that detects illegal mining activities from space
 
 ---
 
@@ -27,35 +27,82 @@ Versatile technology professional with expertise in **software development**, **
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### **Frameworks & Libraries**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### **Data Science & ML**
+### **AI & Machine Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### **Geospatial & GIS**
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5C3EE8?style=for-the-badge&logo=python&logoColor=white)
+
+### **Web Development**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Tools & Platforms**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🌟 Featured Projects
+
+### **1. Illegal Mining (Gold Panning) Detection System** ⛏️🚨
+**Satellite-Based Environmental Monitoring for National Security**
+
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![PostGIS](https://img.shields.io/badge/-PostGIS-336791?logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)
+
+**📊 Key Features:**
+- **Satellite Change Detection**: Automated monitoring of mining scars using Sentinel-2/Landsat imagery
+- **U-Net Segmentation**: Deep learning model for precise detection of illegal mining activities
+- **River Turbidity Analysis**: Monitor water quality changes indicating gold panning operations
+- **Interactive Heatmaps**: Province-level risk assessment dashboard
+- **Monthly Automated Reports**: PDF/Excel reports of detected hotspots
+
+**🎯 Impact:**
+- Environmental protection through early detection
+- National security enhancement
+- Remote sensing + AI for sustainable resource management
+
+**🔗 [View Project Repository](#)** | **🔗 [Live Demo](#)**
+
+---
+
+### **2. Cholera Outbreak Prediction System** 🦠
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+
+- Developed ML model with **87% accuracy** for geospatial outbreak forecasting
+- Engineered temporal and demographic features to improve predictive performance
+- Built interactive Streamlit dashboard for real-time outbreak tracking
+
+---
+
+### **3. Maternal Health Risk Assessment Platform** 👩‍⚕️
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/-SHAP-FF6F00?logo=python&logoColor=white)
+
+- Created risk classification model with **70% accuracy** to identify high-risk maternal cases
+- Integrated SHAP-based explainability for clinical stakeholder insights
 
 ---
 
@@ -66,9 +113,8 @@ Versatile technology professional with expertise in **software development**, **
 *Kaguvi Building, Harare*
 
 #### **Data Engineering & System Integration**
-- Collected and integrated structured data from DHIS2 archives, APIs, and legacy systems
-- Built automated ETL pipelines with Python and SQL, reducing manual data processing time
-- Connected DHIS2 data archives to Power BI, designing interactive dashboards
+- Built automated ETL pipelines with Python and SQL, reducing manual data processing time by 60%
+- Connected DHIS2 data archives to Power BI, designing interactive dashboards for health metrics
 - Contributed to EHR data mapping project, aligning legacy datasets with FHIR standards
 
 #### **Software Development**
@@ -76,88 +122,41 @@ Versatile technology professional with expertise in **software development**, **
 - Built STI prediction system with Spring Boot + Django using clean modular architecture
 - Participated in full SDLC: requirements, design, coding, debugging, testing, documentation
 
-#### **Healthcare Analytics**
-- Conducted exploratory data analysis (EDA) using Python and DHIS2 analytics tools
+#### **AI Solutions Development**
 - Developed and deployed predictive models using regression and classification techniques
 - Engineered features from clinical and demographic variables to enhance model performance
+- Conducted exploratory data analysis (EDA) using Python and DHIS2 analytics tools
 
 ---
 
-## 🏆 Featured Projects
-
-### **Cholera Outbreak Prediction System**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
-- Developed ML model with **87% accuracy** for geospatial outbreak forecasting
-- Engineered temporal and demographic features to improve predictive performance
-- Built interactive Streamlit dashboard for real-time outbreak tracking
-
-### **Maternal Health Risk Assessment Platform**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![SHAP](https://img.shields.io/badge/-SHAP-FF6F00?logo=python&logoColor=white)
-
-- Created risk classification model with **70% accuracy** to identify high-risk maternal cases
-- Integrated SHAP-based explainability for clinical stakeholder insights
-
-### **STI Prediction System**
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-
-- Full-stack healthcare application following clean modular architecture
-- RESTful APIs for data access and prediction services
-- Comprehensive testing and documentation
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
   
-![Tadiwanashe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tadiwanashe-vurumu&show_icons=true&theme=radical&hide_border=true)
+![Tadiwanashe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tadiwanashe-vurumu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tadiwanashe-vurumu&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tadiwanashe-vurumu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tadiwanashe-vurumu&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tadiwanashe-vurumu&theme=dark&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=58a6ff)
 
 </div>
 
 ---
 
-## 🎓 Education
+## 📈 Project Highlights
 
-**BSc Data Science & Informatics**  
-*Midlands State University*  
-- **Class:** 2.1
-- **Relevant Coursework:** Machine Learning, Statistical Analysis, Database Management, Big Data Analytics
-
----
-
-## 📈 GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 📫 Let's Connect
-
-I'm always open to discussing **technology**, **data science projects**, or **potential opportunities**!
-
-- **Email:** [vurumutadiwanashe@gmail.com](mailto:vurumutadiwanashe@gmail.com)
-- **Phone:** +263 78 629 2150
-- **LinkedIn:** [tadiwanashe-vurumu](https://linkedin.com/in/tadiwanashe-vurumu)
-- **Portfolio:** [Coming Soon]
-
----
-
-<div align="center">
-  
-![Visitors](https://komarev.com/ghpvc/?username=tadiwanashe-vurumu&color=blue&style=flat)
-
-**⚡ Building intelligent solutions for a healthier tomorrow**
-
-</div>
+```mermaid
+graph TD
+    A[Satellite Imagery<br/>Sentinel-2/Landsat] --> B[Image Preprocessing<br/>Cloud Masking, Normalization]
+    B --> C[U-Net Model<br/>Illegal Mining Detection]
+    C --> D[PostGIS Database<br/>Geospatial Storage]
+    D --> E[Streamlit Dashboard<br/>Interactive Visualization]
+    E --> F[Risk Heatmaps<br/>Province-Level Analysis]
+    F --> G[Monthly Reports<br/>PDF/Excel Automation]
+    
+    H[River Imagery] --> I[Turbidity Analysis<br/>NDWI Calculation]
+    I --> J[Change Detection<br/>Anomaly Detection]
+    J --> D
+    
+    C --> K[Model Metrics<br/>Precision: 89%]
+    K --> L[Impact: Environmental Protection]
