@@ -14,7 +14,7 @@
 
 Versatile technology professional with expertise in **software development**, **data science**, and **AI solutions** for healthcare and environmental protection. Experienced in building predictive healthcare systems and satellite-based monitoring solutions. Passionate about creating data-driven solutions that make real societal impact.
 
-- 🔭 **Currently:** Software Engineering Intern at Ministry Of Health And Child Care
+- 🔭 **Currently:** Bsc Graduate in Data Science and Informatics
 - 🌱 **Learning:** Advanced Computer Vision and Geospatial AI
 - 💼 **Seeking:** Software Developer, Data Scientist, or AI Engineer roles
 - ⚡ **Fun Fact:** Built environmental monitoring system that detects illegal mining activities from space
@@ -157,6 +157,12 @@ graph TD
     H[River Imagery] --> I[Turbidity Analysis<br/>NDWI Calculation]
     I --> J[Change Detection<br/>Anomaly Detection]
     J --> D
+
+# Tech Stack Badges for Project README
+- ![Sentinel Hub](https://img.shields.io/badge/Sentinel%20Hub-000000?style=flat&logo=esa&logoColor=white)
+- ![GeoPandas](https://img.shields.io/badge/GeoPandas-1399CD?style=flat&logo=python&logoColor=white)
+- ![Rasterio](https://img.shields.io/badge/Rasterio-3776AB?style=flat&logo=python&logoColor=white)
+- ![Folium](https://img.shields.io/badge/Folium-77B829?style=flat&logo=leaflet&logoColor=white)
     
     C --> K[Model Metrics<br/>Precision: 89%]
     K --> L[Impact: Environmental Protection]
