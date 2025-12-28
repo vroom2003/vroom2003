@@ -142,27 +142,3 @@ Versatile technology professional with expertise in **software development**, **
 </div>
 
 ---
-
-## 📈 Project Highlights
-
-```mermaid
-graph TD
-    A[Satellite Imagery<br/>Sentinel-2/Landsat] --> B[Image Preprocessing<br/>Cloud Masking, Normalization]
-    B --> C[U-Net Model<br/>Illegal Mining Detection]
-    C --> D[PostGIS Database<br/>Geospatial Storage]
-    D --> E[Streamlit Dashboard<br/>Interactive Visualization]
-    E --> F[Risk Heatmaps<br/>Province-Level Analysis]
-    F --> G[Monthly Reports<br/>PDF/Excel Automation]
-    
-    H[River Imagery] --> I[Turbidity Analysis<br/>NDWI Calculation]
-    I --> J[Change Detection<br/>Anomaly Detection]
-    J --> D
-
-# Tech Stack Badges for Project README
-- ![Sentinel Hub](https://img.shields.io/badge/Sentinel%20Hub-000000?style=flat&logo=esa&logoColor=white)
-- ![GeoPandas](https://img.shields.io/badge/GeoPandas-1399CD?style=flat&logo=python&logoColor=white)
-- ![Rasterio](https://img.shields.io/badge/Rasterio-3776AB?style=flat&logo=python&logoColor=white)
-- ![Folium](https://img.shields.io/badge/Folium-77B829?style=flat&logo=leaflet&logoColor=white)
-    
-    C --> K[Model Metrics<br/>Precision: 89%]
-    K --> L[Impact: Environmental Protection]
